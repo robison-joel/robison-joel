@@ -1,20 +1,14 @@
-# Róbison Joel
+# <center>Róbison Joel Guimarães Simon</center>
 
-Róbison | Joel
--------:|:---------
-e-mail  | rjgsinfo@gmail.com
-Site    | robison-joel.github.io
-<!--
-**robison-joel/robison-joel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![barra_1.png](https://www.imagemhost.com.br/images/2022/04/28/barra_1.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Formas   | de contato
+--------:|:---------
+e-mail:  | rjgsinfo@gmail.com
+Site:    | [robison-joel.github.io](https://robison-joel.github.io)
+Facebook:| [fb.com/rjgsinfo](https://fb.com/rjgsinfo)
+
+-------------
+
+
