@@ -1,4 +1,4 @@
-# <center>Róbison Joel Guimarães Simon</center>
+# <p align="center">Róbison Joel Guimarães Simon</p>
 
 ![barra_1.png](https://www.imagemhost.com.br/images/2022/04/28/barra_1.png)
 
