@@ -1,8 +1,5 @@
 # <p align="center">Róbison Joel Guimarães Simon</p>
 
-![barra_1.png](https://www.imagemhost.com.br/images/2022/04/28/barra_1.png)
-
-
 Formas   | de contato
 --------:|:---------
 e-mail:  | rjgsinfo@gmail.com
@@ -21,7 +18,7 @@ REPOSITÓRIOS
 
     * [Servidor](https://github.com/robison-joel/propc/tree/main/Server)
 
-* [Web](https://github.com/robison-joel/web)
+* [Web](https://github.com/robison-joel/WEB)
 
 * [Codagem](https://github.com/robison-joel/Codagem)
 
